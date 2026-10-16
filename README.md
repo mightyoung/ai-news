@@ -1,17 +1,31 @@
 # ai-news
 
-Hugging Face 每日热门论文与 arXiv 每日精选「最值得先看」论文原文（PDF）归档。论文按日期存放在 `papers/YYYY-MM-DD/`，每个日期目录下有 `README.md` 列出标题、机构/作者、链接、PDF 和深度解析入口。
+AI 论文原文（PDF）与中文深度解析归档。先按来源分，再按日期，再按论文一个文件夹。
 
 ## 目录结构
 
 ```
-papers/YYYY-MM-DD/
-  README.md                      # 当日清单（含 PDF、深度解析链接；缺解析时标「待补」）
-  <arxiv-id>-<short-slug>/       # 每篇论文一个文件夹
-    <arxiv-id>-<short-slug>.pdf  # 论文原文
-    analysis.md                  # 深度解析（写好后才会出现）
+papers/
+  huggingface/                       # 来源：Hugging Face 每日热门论文
+    YYYY-MM-DD/
+      README.md                      # 当日清单（标题、👍、机构、链接、PDF 与深度解析入口）
+      <arxiv-id>-<short-english-title>/
+        paper.pdf                    # 论文原文
+        深度解析.md                  # 中文深度解析
+  arxiv/                             # 来源：arXiv 每日精选「最值得先看」（补充归档）
+    YYYY-MM-DD/
+      README.md
+      <arxiv-id>-<short-english-title>/
+        paper.pdf
+        深度解析.md
 ```
 
-## 索引（按日期倒序）
+## 索引（按来源 → 日期倒序）
 
-- [2026-10-15](papers/2026-10-15/README.md) — Jeva、Agent-Reflex、Urbex、GreenWAM、Last Secure Code Benchmark、ChunkAct、SkillScaffold
+### Hugging Face 热门
+
+- [2026-10-15](papers/huggingface/2026-10-15/README.md) — Jeva、Agent-Reflex、Urbex、GreenWAM、Last Secure Code Benchmark
+
+### arXiv 精选
+
+- [2026-10-15](papers/arxiv/2026-10-15/README.md) — ChunkAct、SkillScaffold
