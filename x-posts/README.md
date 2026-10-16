@@ -16,8 +16,9 @@ x-posts/
 
 ## 索引
 
-- [2026-10-15](2026-10-15/README.md) — Chollet：物理世界 AI 需要因果推理（分析待补）
-- [2026-10-14](2026-10-14/README.md) — Anthropic 自研源码管理、XBOW 挖 Chrome 全链漏洞、Gemini 4 Argon 看视频教机器人（分析待补）
+- [2026-10-16](2026-10-16/README.md) — MAI-Base-2 预训练、DeepMind Argon 科学结果串、Anthropic 独立评估接入
+- [2026-10-15](2026-10-15/README.md) — Chollet：物理世界 AI 需要因果推理
+- [2026-10-14](2026-10-14/README.md) — Anthropic 自研源码管理、XBOW 挖 Chrome 全链漏洞、Gemini 4 Argon 看视频教机器人
 - [2026-10-13](2026-10-13/README.md) — Anthropic 防蒸馏攻击、OpenAI 标注 + WebMCP
 - [2026-10-12](2026-10-12/README.md) — Karpathy 认知漏斗、Codex 默认 500k 上下文、KerasHub 后训练实验
 - [2026-10-11](2026-10-11/README.md) — Satya「模型即内部风险」、LeCun vs Fleuret 搜索之争 + RoboJEPA
@@ -41,5 +42,4 @@ x-posts/
 ## 说明
 
 - 没有晨报或没有深挖的日期不建目录（如 9/26、9/27、10/3、10/4、10/9）。
-- 2026-10-14、2026-10-15 的深度分析未落盘，只归档了原帖，标「分析待补」。
 - 原帖由 X API 拉取，保持原语言；图片和视频未下载，只给原帖链接。
