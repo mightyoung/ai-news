@@ -28,4 +28,5 @@ papers/
 
 ### arXiv 精选
 
+- [2026-10-16](papers/arxiv/2026-10-16/README.md) — FoveaVLA、Demystifying OPD、Long-Horizon RL Needs Muon
 - [2026-10-15](papers/arxiv/2026-10-15/README.md) — ChunkAct、SkillScaffold
