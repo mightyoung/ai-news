@@ -18,6 +18,13 @@ papers/
       <arxiv-id>-<short-english-title>/
         paper.pdf
         深度解析.md
+  reading-list/                      # 来源：用户指定的阅读清单（按日期/主题一个文件夹）
+    YYYY-MM-DD-<topic>/
+      README.md                      # 清单总表（含原文是否已上传、来源链接）
+      <序号>-<id 或出处>-<short-slug>/
+        paper.pdf                    # 仅放可合法再分发的原文
+        深度解析.md
+        来源.md                      # 不能上传原文时：官方页面与合法获取方式
 x-posts/                             # 来源：X 每日热帖里「建议深挖」的帖子
   README.md                          # 总索引（按日期倒序）
   YYYY-MM-DD/
@@ -37,6 +44,10 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 - [2026-10-16](papers/arxiv/2026-10-16/README.md) — FoveaVLA、Demystifying OPD、Long-Horizon RL Needs Muon
 - [2026-10-15](papers/arxiv/2026-10-15/README.md) — ChunkAct、SkillScaffold
+
+### 阅读清单（reading-list）
+
+- [2026-10-18 RL 文献地图](papers/reading-list/2026-10-18-rl-map/README.md) — SAC、InFOM、SkillBlender、Sutton & Barto、平均奖励 Q-learning、DQN、AlphaProof、Lewis 两篇（9 篇；4 篇无原文，见来源.md）
 
 ## X 技术帖子（x-posts/）
 
