@@ -48,6 +48,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 ### 阅读清单（reading-list）
 
 - [2026-10-18 RL 文献地图](papers/reading-list/2026-10-18-rl-map/README.md) — SAC、InFOM、SkillBlender、Sutton & Barto、平均奖励 Q-learning、DQN、AlphaProof、Lewis 两篇（9 篇；4 篇无原文，见来源.md）
+- [2026-10-18 阅读精选（4 篇 arXiv）](papers/reading-list/2026-10-18-picks/README.md) — Scaling Discovery Requires Forgetting、MPT 去中心化 agent 集群、Apertus 1.5、跨模型 KV Cache 迁移
 
 ## X 技术帖子（x-posts/）
 
