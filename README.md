@@ -42,6 +42,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### arXiv 精选
 
+- [2026-10-19](papers/arxiv/2026-10-19/README.md) — Agentic Midtraining Recipe、Wrong Votes Right Gradients、Spark-0
 - [2026-10-16](papers/arxiv/2026-10-16/README.md) — FoveaVLA、Demystifying OPD、Long-Horizon RL Needs Muon
 - [2026-10-15](papers/arxiv/2026-10-15/README.md) — ChunkAct、SkillScaffold
 
