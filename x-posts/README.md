@@ -16,6 +16,7 @@ x-posts/
 
 ## 索引
 
+- [2026-10-19](2026-10-19/README.md) — Codex/Work 有效用量提升、OpenAI Navier–Stokes 证明与功劳争议、Goodfire「Neural Networks Are Already Clean」
 - [2026-10-16](2026-10-16/README.md) — MAI-Base-2 预训练、DeepMind Argon 科学结果串、Anthropic 独立评估接入
 - [2026-10-15](2026-10-15/README.md) — Chollet：物理世界 AI 需要因果推理
 - [2026-10-14](2026-10-14/README.md) — Anthropic 自研源码管理、XBOW 挖 Chrome 全链漏洞、Gemini 4 Argon 看视频教机器人
