@@ -38,7 +38,7 @@ x-posts/
 
 ## 其他
 
-- [misc](misc/README.md) — 日期无法确定：Claude Opus 5.5 / Karpathy 低延迟档（C_D 分析，9/22–9/23 的帖子）、LunarResearcher《Harness Engineering》长文分析
+- [misc](misc/README.md) — 日期无法确定 / 用户点名：Claude Opus 5.5 / Karpathy 低延迟档（C_D）、LunarResearcher《Harness Engineering》、beamnxw《Loop Engineering + Jev》（10/16 直接点名，非晨报挑帖）
 
 ## 说明
 
