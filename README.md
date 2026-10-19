@@ -37,6 +37,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### Hugging Face 热门
 
+- [2026-10-19](papers/huggingface/2026-10-19/README.md) — Waypoint-OPD、OmniCompass、MJev-Spatial、OpenGCUA、FDE-Gym
 - [2026-10-16](papers/huggingface/2026-10-16/README.md) — ATAS、Player-1、ROAD MOPD、Doc2Harness、Cortex
 - [2026-10-15](papers/huggingface/2026-10-15/README.md) — Jeva、Agent-Reflex、Urbex、GreenWAM、Last Secure Code Benchmark
 
