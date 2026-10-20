@@ -16,6 +16,7 @@ x-posts/
 
 ## 索引
 
+- [2026-10-20](2026-10-20/README.md) — OpenAI 低资源语言（COBOL 迁移 / MultiLangBench）、TreeOPSD 树感知后验蒸馏
 - [2026-10-19](2026-10-19/README.md) — Codex/Work 有效用量提升、OpenAI Navier–Stokes 证明与功劳争议、Goodfire「Neural Networks Are Already Clean」
 - [2026-10-16](2026-10-16/README.md) — MAI-Base-2 预训练、DeepMind Argon 科学结果串、Anthropic 独立评估接入
 - [2026-10-15](2026-10-15/README.md) — Chollet：物理世界 AI 需要因果推理
@@ -38,7 +39,7 @@ x-posts/
 
 ## 其他
 
-- [misc](misc/README.md) — 日期无法确定 / 用户点名：Claude Opus 5.5 / Karpathy 低延迟档（C_D）、LunarResearcher《Harness Engineering》、beamnxw《Loop Engineering + Jev》（10/16 直接点名，非晨报挑帖）
+- [misc](misc/README.md) — 日期无法确定 / 用户点名：Claude Opus 5.5 / Karpathy 低延迟档（C_D）、LunarResearcher《Harness Engineering》、beamnxw《Loop Engineering + Jev》（10/16 直接点名，非晨报挑帖）、skunzu《Claude Code ultracode 分模型工作流》（10/16 单独分析）
 
 ## 说明
 
