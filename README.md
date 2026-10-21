@@ -37,6 +37,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### Hugging Face 热门
 
+- [2026-10-21](papers/huggingface/2026-10-21/README.md) — Brain-encoding PEFT（BrainLoRA）、OR-License、EgoXperience、MemT-1.0、Learning from Fleet Experience
 - [2026-10-20](papers/huggingface/2026-10-20/README.md) — HexaShell、BizBench、ACT3D、Into the Unknown、CarryOn
 - [2026-10-19](papers/huggingface/2026-10-19/README.md) — Waypoint-OPD、OmniCompass、MJev-Spatial、OpenGCUA、FDE-Gym
 - [2026-10-16](papers/huggingface/2026-10-16/README.md) — ATAS、Player-1、ROAD MOPD、Doc2Harness、Cortex
