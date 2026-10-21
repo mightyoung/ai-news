@@ -44,6 +44,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### arXiv 精选
 
+- [2026-10-21](papers/arxiv/2026-10-21/README.md) — What RL Brings to Reasoning、Agentic RL 数据缩放律、Halcyon 无语言预训练文生图
 - [2026-10-20](papers/arxiv/2026-10-20/README.md) — GPT-6-Astra 具身评估、Looped Models Done Right、Grounded Credit Assignment
 - [2026-10-19](papers/arxiv/2026-10-19/README.md) — Agentic Midtraining Recipe、Wrong Votes Right Gradients、Spark-0
 - [2026-10-16](papers/arxiv/2026-10-16/README.md) — FoveaVLA、Demystifying OPD、Long-Horizon RL Needs Muon
