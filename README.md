@@ -46,6 +46,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### arXiv 精选
 
+- [2026-10-22](papers/arxiv/2026-10-22/README.md) — SimHack 预测奖励作弊、数据与学习率调度联合设计、TIDE 部署中在线后训练
 - [2026-10-21](papers/arxiv/2026-10-21/README.md) — What RL Brings to Reasoning、Agentic RL 数据缩放律、Halcyon 无语言预训练文生图
 - [2026-10-20](papers/arxiv/2026-10-20/README.md) — GPT-6-Astra 具身评估、Looped Models Done Right、Grounded Credit Assignment
 - [2026-10-19](papers/arxiv/2026-10-19/README.md) — Agentic Midtraining Recipe、Wrong Votes Right Gradients、Spark-0
