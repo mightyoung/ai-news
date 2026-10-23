@@ -37,6 +37,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### Hugging Face 热门
 
+- [2026-10-23](papers/huggingface/2026-10-23/README.md) — StreamEval、SpatialScout、DONIC、Looking Ahead（FCP）、Cache Engineering for Agents（AKV）
 - [2026-10-22](papers/huggingface/2026-10-22/README.md) — FocusGUI（Focused Omni-Modal GUI Agents）、Matrix-Game 4.0、Ropedia W0、PAR、S-Agent 2.0
 - [2026-10-21](papers/huggingface/2026-10-21/README.md) — Brain-encoding PEFT（BrainLoRA）、OR-License、EgoXperience、MemT-1.0、Learning from Fleet Experience
 - [2026-10-20](papers/huggingface/2026-10-20/README.md) — HexaShell、BizBench、ACT3D、Into the Unknown、CarryOn
