@@ -16,6 +16,8 @@ x-posts/
 
 ## 索引
 
+- [2026-10-23](2026-10-23/README.md) — Anthropic Claude 大规模形式化验证、OpenAI × METR/Redwood 内部监控驻场评估、OPAL agent-in-the-loop 优化器
+- [2026-10-22](2026-10-22/README.md) — JOLT 自蒸馏 + RL、Recursive Flint 本地编码模型、php2shell 防守侧、API 12h prompt 缓存
 - [2026-10-21](2026-10-21/README.md) — NVIDIA Flora 机器人数据引擎、Pinocchio VLA 思维链忠实度 critic、后训练前预测编码 agent 潜力、Meta Muse Glimmer 30B
 - [2026-10-20](2026-10-20/README.md) — OpenAI 低资源语言（COBOL 迁移 / MultiLangBench）、TreeOPSD 树感知后验蒸馏
 - [2026-10-19](2026-10-19/README.md) — Codex/Work 有效用量提升、OpenAI Navier–Stokes 证明与功劳争议、Goodfire「Neural Networks Are Already Clean」
