@@ -1,0 +1,9 @@
+# 2026-10-26 arXiv 精选「最值得先看」
+
+来自 arXiv 2026-10-23（周五）公告批次（编号 2610.30151–2610.31671，多为 10-22 提交）的精选，选出最值得先看的 3 篇归档。每篇论文一个文件夹，内含 `paper.pdf` 与 `深度解析.md`（解析补齐前显示「待补」）。
+
+| arXiv | 标题 | 作者 | 为什么值得看 | 链接 | PDF | 深度解析 |
+|---|---|---|---|---|---|---|
+| 2610.30765 | Scaling Laws for Generative Reward Models | Angel Raychev, Nathan Lile, Rafael Rafailov（SynthLabs.ai、Stanford、Thinking Machines） | 创意写作场景下，静态判分更准的 Thinking 判官（GRPO 训练）拿去做在线 DPO 奖励时，反而在 8 组匹配设置中有 7 组不如 Answer-Only 判官（以一个固定的 32B 学习型 Gold 评估器打 Elo）；提醒「奖励模型准确率 ≠ 训练效果」，作者也说明换评估器的复核结果不确定。 | [arXiv](https://arxiv.org/abs/2610.30765) | [PDF](2610.30765-genrm-scaling-laws/paper.pdf) | 待补 |
+| 2610.31642 | A Fix for Softmax and Cross-Entropy | Jonathan T. Barron, Dan Gnanapragasam, Michael Tschannen（Google DeepMind） | 指出标准 softmax / log-softmax / 交叉熵实现的两个数值 bug（Softmax Collapse 与 Softmax Cancellation）并给出简单修复；修复后 Slingshot 现象消失、带权重衰减的 grokking 更快、蒸馏时学生不再偏离老师，几乎所有训练代码都可能受影响。 | [arXiv](https://arxiv.org/abs/2610.31642) | [PDF](2610.31642-softmax-cross-entropy-fix/paper.pdf) | 待补 |
+| 2610.30735 | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies | Shivakanth Sujit, Luca Nunziante, Rousslan Fernand Julien Dossa, Kai Arulkumaran（Araya） | 在 6 个流匹配 VLA（0.45B–4.7B）、4 个仿真基准和真实 Franka 上做一步 vs 多步配对对比：π0.5 与 XR-0 在所有可测仿真基准上 3 个百分点内统计等价，X-VLA、LAP 各有一个基准例外；较小的 FLOWER、SmolVLA 在长程任务上仍有差距；一步推理可降低 1.6–4.8× 延迟且无需重训。 | [arXiv](https://arxiv.org/abs/2610.30735) | [PDF](2610.30735-one-step-flow-matching-policies/paper.pdf) | 待补 |
