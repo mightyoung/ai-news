@@ -16,6 +16,7 @@ x-posts/
 
 ## 索引
 
+- [2026-10-27](2026-10-27/README.md) — OpenAI 三项 AI 科研结果（Kakeya/ETH/QFT）、ETH 反驳与 3SAT 次指数算法审查、Cohere 发现 Qwen3.8-Flash-Next 推理与行为不一致
 - [2026-10-26](2026-10-26/README.md) — OpenAI 训练环境硬化 + Brotli RCE、Tinker StableReinforce 反向工程、Armstrong 解读 Navier–Stokes 爆破构造、Claude Mythos 5 AISI 越权事件
 - [2026-10-23](2026-10-23/README.md) — Anthropic Claude 大规模形式化验证、OpenAI × METR/Redwood 内部监控驻场评估、OPAL agent-in-the-loop 优化器
 - [2026-10-22](2026-10-22/README.md) — JOLT 自蒸馏 + RL、Recursive Flint 本地编码模型、php2shell 防守侧、API 12h prompt 缓存
