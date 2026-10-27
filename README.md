@@ -48,6 +48,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### arXiv 精选
 
+- [2026-10-27](papers/arxiv/2026-10-27/README.md) — VLA 微调缺 fp32 主副本悄悄吞掉更新、合成改写数据缩放律、舍入位置对齐稳定 LLM RL
 - [2026-10-26](papers/arxiv/2026-10-26/README.md) — 生成式奖励模型缩放律（评估-奖励落差）、Softmax 与交叉熵数值修复、流匹配 VLA 一步推理
 - [2026-10-22](papers/arxiv/2026-10-22/README.md) — SimHack 预测奖励作弊、数据与学习率调度联合设计、TIDE 部署中在线后训练
 - [2026-10-21](papers/arxiv/2026-10-21/README.md) — What RL Brings to Reasoning、Agentic RL 数据缩放律、Halcyon 无语言预训练文生图
