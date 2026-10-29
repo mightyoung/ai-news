@@ -16,6 +16,7 @@ x-posts/
 
 ## 索引
 
+- [2026-10-29](2026-10-29/README.md) — Gemini 4 Carbon、AA Intelligence Index v5 与私有基准之争、GitHub Copilot Fusion 多模型编排
 - [2026-10-28](2026-10-28/README.md) — DeepMind Genie 4 交互式世界模型（无技术报告）、Anthropic 用 Claude 加速药物开发的早期进展
 - [2026-10-27](2026-10-27/README.md) — OpenAI 三项 AI 科研结果（Kakeya/ETH/QFT）、ETH 反驳与 3SAT 次指数算法审查、Cohere 发现 Qwen3.8-Flash-Next 推理与行为不一致
 - [2026-10-26](2026-10-26/README.md) — OpenAI 训练环境硬化 + Brotli RCE、Tinker StableReinforce 反向工程、Armstrong 解读 Navier–Stokes 爆破构造、Claude Mythos 5 AISI 越权事件
