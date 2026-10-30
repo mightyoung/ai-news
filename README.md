@@ -37,6 +37,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### Hugging Face 热门
 
+- [2026-10-30](papers/huggingface/2026-10-30/README.md) — Falcon（流式音视频目标说话人提取）、OmniShowcase、Sensorimotor Alignment（S²）、TAO、RealCLI
 - [2026-10-29](papers/huggingface/2026-10-29/README.md) — Multiscale Policy Optimization（MPO）、ChronoReplay、The Trinity、PDRVLA、Memory Tax
 - [2026-10-28](papers/huggingface/2026-10-28/README.md) — Trajectory2Gym、Trial by Trace（TraceTrial-Bench）、StreamVibe、DynaFlow、Continual Learning Exam
 - [2026-10-27](papers/huggingface/2026-10-27/README.md) — 统一视频世界模型综述（Reading/Writing/Sharing/Interacting）、RSIHub、UserArena、HiSTEVE 1.0、RynnUnify
