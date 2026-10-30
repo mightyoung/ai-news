@@ -51,6 +51,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### arXiv 精选
 
+- [2026-10-30](papers/arxiv/2026-10-30/README.md) — 预训练投毒植入 Agent 远程执行后门、各训练阶段权重更新「杠杆」、可提示的人形全身执行层（METATRON）
 - [2026-10-29](papers/arxiv/2026-10-29/README.md) — 工具调用 Agent 数据缩放律、VLA 与世界动作模型之争的拆解（JAM）、RLVR 全失败难题的策略相容联合解码（PICO）
 - [2026-10-28](papers/arxiv/2026-10-28/README.md) — RL 缩放律（Elo 指标）、结果 RL 到底买到了什么、世界建模对机器人动作学习的真实增益
 - [2026-10-27](papers/arxiv/2026-10-27/README.md) — VLA 微调缺 fp32 主副本悄悄吞掉更新、合成改写数据缩放律、舍入位置对齐稳定 LLM RL
