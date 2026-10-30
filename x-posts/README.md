@@ -16,6 +16,7 @@ x-posts/
 
 ## 索引
 
+- [2026-10-30](2026-10-30/README.md) — OpenAI 前沿模型错位监控、Anthropic Claude 自我评估、Spawn agent 舰队工程实践
 - [2026-10-29](2026-10-29/README.md) — Gemini 4 Carbon、AA Intelligence Index v5 与私有基准之争、GitHub Copilot Fusion 多模型编排
 - [2026-10-28](2026-10-28/README.md) — DeepMind Genie 4 交互式世界模型（无技术报告）、Anthropic 用 Claude 加速药物开发的早期进展
 - [2026-10-27](2026-10-27/README.md) — OpenAI 三项 AI 科研结果（Kakeya/ETH/QFT）、ETH 反驳与 3SAT 次指数算法审查、Cohere 发现 Qwen3.8-Flash-Next 推理与行为不一致
