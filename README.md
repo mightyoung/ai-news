@@ -18,6 +18,18 @@ papers/
       <arxiv-id>-<short-english-title>/
         paper.pdf
         深度解析.md
+  journals/                          # 来源：顶刊周报（每周一）
+    YYYY-MM-DD/                      # 当期（周一日期）
+      README.md
+      <venue>-<id>-<slug>/
+        paper.pdf 或 来源.md
+        深度解析.md
+  conferences/                       # 来源：顶会周报（每个会议每年一个表，逐期追加）
+    <venue>-<year>/
+      README.md
+      <id>-<slug>/
+        paper.pdf 或 来源.md
+        深度解析.md
   reading-list/                      # 来源：用户指定的阅读清单（按日期/主题一个文件夹）
     YYYY-MM-DD-<topic>/
       README.md                      # 清单总表（含原文是否已上传、来源链接）
@@ -37,6 +49,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 
 ### Hugging Face 热门
 
+- [2026-10-31](papers/huggingface/2026-10-31/README.md) — IDM（Intrinsic Distribution Matching）、A-RSI、Benchmark as Empirical Measure（BenchFill）、PRH with JEPAs、WorkFactory（WorkPilot）
 - [2026-10-30](papers/huggingface/2026-10-30/README.md) — Falcon（流式音视频目标说话人提取）、OmniShowcase、Sensorimotor Alignment（S²）、TAO、RealCLI
 - [2026-10-29](papers/huggingface/2026-10-29/README.md) — Multiscale Policy Optimization（MPO）、ChronoReplay、The Trinity、PDRVLA、Memory Tax
 - [2026-10-28](papers/huggingface/2026-10-28/README.md) — Trajectory2Gym、Trial by Trace（TraceTrial-Bench）、StreamVibe、DynaFlow、Continual Learning Exam
@@ -63,6 +76,14 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
 - [2026-10-19](papers/arxiv/2026-10-19/README.md) — Agentic Midtraining Recipe、Wrong Votes Right Gradients、Spark-0
 - [2026-10-16](papers/arxiv/2026-10-16/README.md) — FoveaVLA、Demystifying OPD、Long-Horizon RL Needs Muon
 - [2026-10-15](papers/arxiv/2026-10-15/README.md) — ChunkAct、SkillScaffold
+
+### 顶刊（journals）
+
+- （暂无）
+
+### 顶会（conferences）
+
+- （暂无）
 
 ### 阅读清单（reading-list）
 
