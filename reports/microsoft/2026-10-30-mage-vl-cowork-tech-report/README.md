@@ -16,7 +16,7 @@
 
 ## 摘要
 
-Microsoft Mage 团队发布 4B 混合计算机使用智能体 Mage-VL-Cowork 及其技术报告，模型在单一策略中结合 GUI 操作与代码/终端执行，经过中期训练、SFT 和 RL 共五阶段课程训练。报告介绍的 Mage-CUA-Forge 合成了覆盖 6,915 个技能的 293,806 个桌面与网页任务，每任务的重复成本降低 82.6%。Mage-VL-Cowork-4B 在 OSWorld-Verified（50 步预算）上达到 66.0%；模型卡称在线 RL 比 Hybrid SFT 高 10.16 个百分点。
+Microsoft Mage 团队发布 4B 混合计算机使用智能体 Mage-VL-Cowork 及其技术报告，模型在单一策略中结合 GUI 操作与代码/终端执行，经过中期训练、SFT 和 RL 共五阶段课程训练。报告介绍的 Mage-CUA-Forge 合成了覆盖 6,915 个技能的 293,806 个桌面与网页任务，每任务的重复成本降低 82.6%。Mage-VL-Cowork-4B 在 OSWorld-Verified 上达到 66.0%（361 题、50 步、两次运行平均，厂商自报）；报告第 15 页称在线 RL 比 Hybrid SFT 高 10.16 个百分点（55.84%→66.0%）。实际参数约 4.74B，训练与推理上下文 32K。
 
 ## 原文
 
@@ -24,7 +24,7 @@ Microsoft Mage 团队发布 4B 混合计算机使用智能体 Mage-VL-Cowork 及
 
 ## 核验
 
-待核
+[✅ 能核实](核验.md)
 
 ## 深度解析
 
