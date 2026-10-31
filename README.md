@@ -43,6 +43,7 @@ x-posts/                             # 来源：X 每日热帖里「建议深挖
     README.md                        # 当日清单
     原帖.md                          # 原帖原文
     深度分析.md                      # 中文深度分析
+reports/                             # 来源：厂商技术报告、系统卡、模型卡与官方技术博客（<vendor>/<YYYY-MM-DD>-<slug>/，索引见 reports/README.md）
 ```
 
 ## 索引（按来源 → 日期倒序）
