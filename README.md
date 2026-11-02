@@ -80,11 +80,11 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### 顶刊（journals）
 
-- （暂无）
+- [2026-11-02](papers/journals/2026-11-02/README.md) — EVENET（NMI，粒子对撞基础模型）
 
 ### 顶会（conferences）
 
-- （暂无）
+- [2026-11-02](papers/conferences/neurips-2026/README.md) — NeurIPS 2026 Oral：量化推理模型过度思考、Fisher-R1
 
 ### 阅读清单（reading-list）
 
