@@ -16,6 +16,7 @@ x-posts/
 
 ## 索引
 
+- [2026-11-03](2026-11-03/README.md) — OpenAI Pando Git 后端、Weight-Space Programming、SemiAnalysis GDPx
 - [2026-11-02](2026-11-02/README.md) — Anthropic 自动化隐蔽涌现失调红队、Karpathy HackerTube
 - [2026-10-30](2026-10-30/README.md) — OpenAI 前沿模型错位监控、Anthropic Claude 自我评估、Spawn agent 舰队工程实践
 - [2026-10-29](2026-10-29/README.md) — Gemini 4 Carbon、AA Intelligence Index v5 与私有基准之争、GitHub Copilot Fusion 多模型编排
