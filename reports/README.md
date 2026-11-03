@@ -4,10 +4,10 @@
 
 ## 按日期
 
-- 2026-11-02 · OpenAI · [LifeVal](openai/2026-11-02-lifeval/README.md) · 官方博客 · 待核
-- 2026-11-02 · Anthropic · [FlashProve: Hash-Based Proofs of LLM Inference at 400 Billion Parameters](anthropic/2026-11-02-flashprove-tech-report/README.md) · 技术报告 · 待核
-- 2026-11-02 · Anthropic · [Progress on provable inference for large language models](anthropic/2026-11-02-provable-inference-flashprove-blog/README.md) · 官方博客 · 待核
-- 2026-11-01 · Meituan LongCat · [Introducing LongCat-2.5](meituan/2026-11-01-longcat-2-5-blog/README.md) · 官方博客 · 待核
+- 2026-11-02 · OpenAI · [LifeVal](openai/2026-11-02-lifeval/README.md) · 官方博客 · ⚠️ 部分核实
+- 2026-11-02 · Anthropic · [FlashProve: Hash-Based Proofs of LLM Inference at 400 Billion Parameters](anthropic/2026-11-02-flashprove-tech-report/README.md) · 技术报告 · ✅ 能核实
+- 2026-11-02 · Anthropic · [Progress on provable inference for large language models](anthropic/2026-11-02-provable-inference-flashprove-blog/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-01 · Meituan LongCat · [Introducing LongCat-2.5](meituan/2026-11-01-longcat-2-5-blog/README.md) · 官方博客 · ⚠️ 部分核实
 - 2026-10-30 · OpenAI · [GPT-Rosalind-6 System Card Addendum](openai/2026-10-30-gpt-rosalind-6-system-card-addendum/README.md) · 系统卡附录 · 待核
 - 2026-10-30 · Microsoft · [Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use from Evolved Harnesses](microsoft/2026-10-30-mage-vl-cowork-tech-report/README.md) · 技术报告 · ✅ 能核实 · [深度解析](microsoft/2026-10-30-mage-vl-cowork-tech-report/深度解析.md)
 - 2026-10-29 · OpenAI · [How we detect frontier model misalignment](openai/2026-10-29-how-we-detect-frontier-model-misalignment/README.md) · 官方博客 · 待核

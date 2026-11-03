@@ -16,7 +16,7 @@
 
 ## 摘要
 
-Anthropic 介绍了 FlashProve：用 zkSNARK（零知识简洁证明）让模型提供方先对权重做承诺，再证明每次回复确实来自这个模型，同时不泄露权重。博客称在单张 H100 上，对 400B 参数 MoE（Llama 4 Maverick，4-bit 量化）每秒约 110 个 token 生成证明，每个 1,024-token 请求证明约 19 MB，GPU 时间约为 vLLM 跑同样长度提示的 70–95 倍（厂商自报）。博客说这些改进由 Claude 完成，安全性的顶层陈述用 Lean 形式化；代码、Lean 证明和文档以 Apache 2.0 发布。
+Anthropic 介绍了 FlashProve：用 zkSNARK（零知识简洁证明）让模型提供方先对权重做承诺，再证明每次回复确实来自这个模型，同时不泄露权重。博客称在单张 H100 上，对 400B 参数 MoE（Llama 4 Maverick 形状的整数模型，权重多为 4-bit）每秒约 110 个 prefill token 生成证明（24 条一批），每个证明约 19 MB、只检查 1 个输出 token（技术报告第 5 页），GPU 时间约为 vLLM 跑同样长度提示的 70–95 倍（厂商自报）。博客说这些改进由 Claude 完成，安全性的顶层陈述用 Lean 形式化；代码、Lean 证明和文档以 Apache 2.0 发布。
 
 ## 原文
 
@@ -24,7 +24,7 @@ Anthropic 介绍了 FlashProve：用 zkSNARK（零知识简洁证明）让模型
 
 ## 核验
 
-待核
+✅ 能核实，详见 [核验.md](核验.md)
 
 ## 深度解析
 
