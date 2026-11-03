@@ -4,6 +4,10 @@
 
 ## 按日期
 
+- 2026-11-02 · OpenAI · [LifeVal](openai/2026-11-02-lifeval/README.md) · 官方博客 · 待核
+- 2026-11-02 · Anthropic · [FlashProve: Hash-Based Proofs of LLM Inference at 400 Billion Parameters](anthropic/2026-11-02-flashprove-tech-report/README.md) · 技术报告 · 待核
+- 2026-11-02 · Anthropic · [Progress on provable inference for large language models](anthropic/2026-11-02-provable-inference-flashprove-blog/README.md) · 官方博客 · 待核
+- 2026-11-01 · Meituan LongCat · [Introducing LongCat-2.5](meituan/2026-11-01-longcat-2-5-blog/README.md) · 官方博客 · 待核
 - 2026-10-30 · OpenAI · [GPT-Rosalind-6 System Card Addendum](openai/2026-10-30-gpt-rosalind-6-system-card-addendum/README.md) · 系统卡附录 · 待核
 - 2026-10-30 · Microsoft · [Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use from Evolved Harnesses](microsoft/2026-10-30-mage-vl-cowork-tech-report/README.md) · 技术报告 · ✅ 能核实 · [深度解析](microsoft/2026-10-30-mage-vl-cowork-tech-report/深度解析.md)
 - 2026-10-29 · OpenAI · [How we detect frontier model misalignment](openai/2026-10-29-how-we-detect-frontier-model-misalignment/README.md) · 官方博客 · 待核
@@ -28,6 +32,7 @@
 
 ### OpenAI（`openai/`）
 
+- [2026-11-02-lifeval](openai/2026-11-02-lifeval/README.md) · 官方博客
 - [2026-10-30-gpt-rosalind-6-system-card-addendum](openai/2026-10-30-gpt-rosalind-6-system-card-addendum/README.md) · 系统卡附录
 - [2026-10-29-how-we-detect-frontier-model-misalignment](openai/2026-10-29-how-we-detect-frontier-model-misalignment/README.md) · 官方博客
 - [2026-10-29-gpt-6-luna-october-29-update-addendum](openai/2026-10-29-gpt-6-luna-october-29-update-addendum/README.md) · 系统卡附录
@@ -37,6 +42,8 @@
 
 ### Anthropic（`anthropic/`）
 
+- [2026-11-02-flashprove-tech-report](anthropic/2026-11-02-flashprove-tech-report/README.md) · 技术报告
+- [2026-11-02-provable-inference-flashprove-blog](anthropic/2026-11-02-provable-inference-flashprove-blog/README.md) · 官方博客
 - [2026-10-23-alignment-assessment-ukaisi](anthropic/2026-10-23-alignment-assessment-ukaisi/README.md) · 官方博客
 
 ### Google DeepMind（`google-deepmind/`）
@@ -74,3 +81,7 @@
 ### Microsoft（`microsoft/`）
 
 - [2026-10-30-mage-vl-cowork-tech-report](microsoft/2026-10-30-mage-vl-cowork-tech-report/README.md) · 技术报告
+
+### Meituan LongCat（`meituan/`）
+
+- [2026-11-01-longcat-2-5-blog](meituan/2026-11-01-longcat-2-5-blog/README.md) · 官方博客
