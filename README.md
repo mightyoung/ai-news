@@ -50,6 +50,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### Hugging Face 热门
 
+- [2026-11-03](papers/huggingface/2026-11-03/README.md) — FrameForge、R²Orch、System-1 放行 System-2（Conditional Interaction）、REA（具身大脑-小脑路由运行时）、Follow the Gradient（SimpleLoRIF / SafeTulu）
 - [2026-10-31](papers/huggingface/2026-10-31/README.md) — IDM（Intrinsic Distribution Matching）、A-RSI、Benchmark as Empirical Measure（BenchFill）、PRH with JEPAs、WorkFactory（WorkPilot）
 - [2026-10-30](papers/huggingface/2026-10-30/README.md) — Falcon（流式音视频目标说话人提取）、OmniShowcase、Sensorimotor Alignment（S²）、TAO、RealCLI
 - [2026-10-29](papers/huggingface/2026-10-29/README.md) — Multiscale Policy Optimization（MPO）、ChronoReplay、The Trinity、PDRVLA、Memory Tax
@@ -66,6 +67,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### arXiv 精选
 
+- [2026-11-03](papers/arxiv/2026-11-03/README.md) — bf16 舍入吞掉 RL 更新（Fair Cast）、仿真接触伪影审计（SimuGuard）、算力对齐的循环 Transformer（UpLoop）
 - [2026-10-30](papers/arxiv/2026-10-30/README.md) — 预训练投毒植入 Agent 远程执行后门、各训练阶段权重更新「杠杆」、可提示的人形全身执行层（METATRON）
 - [2026-10-29](papers/arxiv/2026-10-29/README.md) — 工具调用 Agent 数据缩放律、VLA 与世界动作模型之争的拆解（JAM）、RLVR 全失败难题的策略相容联合解码（PICO）
 - [2026-10-28](papers/arxiv/2026-10-28/README.md) — RL 缩放律（Elo 指标）、结果 RL 到底买到了什么、世界建模对机器人动作学习的真实增益
