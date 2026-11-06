@@ -40,6 +40,11 @@
 
 ### OpenAI（`openai/`）
 
+- [2026-11-05-gpt-6-cyber-system-card](openai/2026-11-05-gpt-6-cyber-system-card/README.md) · 系统卡
+- [2026-11-05-introducing-gpt-6-cyber](openai/2026-11-05-introducing-gpt-6-cyber/README.md) · 官方博客
+- [2026-11-04-chatgpt-images-2-6-system-card](openai/2026-11-04-chatgpt-images-2-6-system-card/README.md) · 系统卡
+- [2026-11-04-introducing-images-2-6](openai/2026-11-04-introducing-images-2-6/README.md) · 官方博客
+- [2026-11-04-thousand-fewer-paths-to-root](openai/2026-11-04-thousand-fewer-paths-to-root/README.md) · 官方博客
 - [2026-11-02-lifeval](openai/2026-11-02-lifeval/README.md) · 官方博客
 - [2026-10-30-gpt-rosalind-6-system-card-addendum](openai/2026-10-30-gpt-rosalind-6-system-card-addendum/README.md) · 系统卡附录
 - [2026-10-29-how-we-detect-frontier-model-misalignment](openai/2026-10-29-how-we-detect-frontier-model-misalignment/README.md) · 官方博客
@@ -56,6 +61,7 @@
 
 ### Google DeepMind（`google-deepmind/`）
 
+- [2026-11-05-gemini-omni-1-2-flash](google-deepmind/2026-11-05-gemini-omni-1-2-flash/README.md) · 官方博客
 - [2026-10-29-gemini-4-carbon](google-deepmind/2026-10-29-gemini-4-carbon/README.md) · 官方博客
 - [2026-10-28-genie-4](google-deepmind/2026-10-28-genie-4/README.md) · 官方博客
 
@@ -75,7 +81,12 @@
 
 ### Moonshot（`moonshot/`）
 
+- [2026-11-04-kimi-k3-1-pro-model-card](moonshot/2026-11-04-kimi-k3-1-pro-model-card/README.md) · 模型卡
 - [2026-10-24-kimi-k3-1-pro](moonshot/2026-10-24-kimi-k3-1-pro/README.md) · 官方博客
+
+### Thinking Machines Lab（`other-thinking-machines/`）
+
+- [2026-11-05-inkling-2-small](other-thinking-machines/2026-11-05-inkling-2-small/README.md) · 官方博客
 
 ### MiniMax（`minimax/`）
 
