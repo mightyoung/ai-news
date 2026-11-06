@@ -34,4 +34,5 @@ Moonshot 发布 Kimi K3.1 Pro，称其为 K3.1 系列中能力最强的 3T 级�
 
 ## 相关文档
 
+- [Kimi K3.1 Pro 模型卡（Hugging Face）](../2026-11-04-kimi-k3-1-pro-model-card/README.md)
 - 暂无同一模型的其他文件夹
