@@ -4,11 +4,11 @@
 
 ## 按日期
 
-- 2026-11-05 · OpenAI · [GPT-6 Cyber System Card](openai/2026-11-05-gpt-6-cyber-system-card/README.md) · 系统卡 · ✅ 能核实
+- 2026-11-05 · OpenAI · [GPT-6 Cyber System Card](openai/2026-11-05-gpt-6-cyber-system-card/README.md) · 系统卡 · ✅ 能核实 · [深度解析](openai/2026-11-05-gpt-6-cyber-system-card/深度解析.md)
 - 2026-11-05 · OpenAI · [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](openai/2026-11-05-introducing-gpt-6-cyber/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-05 · Google DeepMind · [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](google-deepmind/2026-11-05-gemini-omni-1-2-flash/README.md) · 官方博客 · ⚠️ 部分核实
 - 2026-11-05 · Thinking Machines Lab · [Introducing Inkling 2 Small](other-thinking-machines/2026-11-05-inkling-2-small/README.md) · 官方博客 · ✅ 能核实
-- 2026-11-04 · OpenAI · [ChatGPT Images 2.6 System Card](openai/2026-11-04-chatgpt-images-2-6-system-card/README.md) · 系统卡 · ✅ 能核实
+- 2026-11-04 · OpenAI · [ChatGPT Images 2.6 System Card](openai/2026-11-04-chatgpt-images-2-6-system-card/README.md) · 系统卡 · ✅ 能核实 · [深度解析](openai/2026-11-04-chatgpt-images-2-6-system-card/深度解析.md)
 - 2026-11-04 · OpenAI · [Introducing Images 2.6](openai/2026-11-04-introducing-images-2-6/README.md) · 官方博客 · ⚠️ 部分核实
 - 2026-11-04 · OpenAI · [A thousand fewer paths to root](openai/2026-11-04-thousand-fewer-paths-to-root/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-04 · Moonshot · [Kimi K3.1 Pro 模型卡（Hugging Face）](moonshot/2026-11-04-kimi-k3-1-pro-model-card/README.md) · 模型卡 · ✅ 能核实
@@ -40,9 +40,9 @@
 
 ### OpenAI（`openai/`）
 
-- [2026-11-05-gpt-6-cyber-system-card](openai/2026-11-05-gpt-6-cyber-system-card/README.md) · 系统卡
+- [2026-11-05-gpt-6-cyber-system-card](openai/2026-11-05-gpt-6-cyber-system-card/README.md) · 系统卡 · [深度解析](openai/2026-11-05-gpt-6-cyber-system-card/深度解析.md)
 - [2026-11-05-introducing-gpt-6-cyber](openai/2026-11-05-introducing-gpt-6-cyber/README.md) · 官方博客
-- [2026-11-04-chatgpt-images-2-6-system-card](openai/2026-11-04-chatgpt-images-2-6-system-card/README.md) · 系统卡
+- [2026-11-04-chatgpt-images-2-6-system-card](openai/2026-11-04-chatgpt-images-2-6-system-card/README.md) · 系统卡 · [深度解析](openai/2026-11-04-chatgpt-images-2-6-system-card/深度解析.md)
 - [2026-11-04-introducing-images-2-6](openai/2026-11-04-introducing-images-2-6/README.md) · 官方博客
 - [2026-11-04-thousand-fewer-paths-to-root](openai/2026-11-04-thousand-fewer-paths-to-root/README.md) · 官方博客
 - [2026-11-02-lifeval](openai/2026-11-02-lifeval/README.md) · 官方博客
