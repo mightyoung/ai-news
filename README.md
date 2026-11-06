@@ -50,6 +50,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### Hugging Face 热门
 
+- [2026-11-06](papers/huggingface/2026-11-06/README.md) — TurnWise（流式视频回合级 RL）、NEO-VLA（原生 VLA）、FrontierPhysics、多轮 Agent RL 剖析、OPD 泛化局限
 - [2026-11-04](papers/huggingface/2026-11-04/README.md) — Agentic 图形学综述、Wave Forcing、CUA-Master、CoworkOS、O³PD（只学排序的在线蒸馏）
 - [2026-11-03](papers/huggingface/2026-11-03/README.md) — FrameForge、R²Orch、System-1 放行 System-2（Conditional Interaction）、REA（具身大脑-小脑路由运行时）、Follow the Gradient（SimpleLoRIF / SafeTulu）
 - [2026-10-31](papers/huggingface/2026-10-31/README.md) — IDM（Intrinsic Distribution Matching）、A-RSI、Benchmark as Empirical Measure（BenchFill）、PRH with JEPAs、WorkFactory（WorkPilot）
@@ -68,6 +69,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### arXiv 精选
 
+- [2026-11-06](papers/arxiv/2026-11-06/README.md) — 奖励预算（Reward Budgeting）、C-GRPO（共形 GRPO）、RACE（机器人检查点离线排序）
 - [2026-11-04](papers/arxiv/2026-11-04/README.md) — GRPO 组内锦标赛（Team-GRPO）、机器人预训练的 pass@k（Beyond Validation Loss）、测试时训练合并推理（TTT-Consolidate）
 - [2026-11-03](papers/arxiv/2026-11-03/README.md) — bf16 舍入吞掉 RL 更新（Fair Cast）、仿真接触伪影审计（SimuGuard）、算力对齐的循环 Transformer（UpLoop）
 - [2026-10-30](papers/arxiv/2026-10-30/README.md) — 预训练投毒植入 Agent 远程执行后门、各训练阶段权重更新「杠杆」、可提示的人形全身执行层（METATRON）
