@@ -14,7 +14,7 @@
 
 ## 摘要
 
-发布 Images 2.6：ChatGPT/Codex/API 可用；API 提供 Flare（更快）与 Sunburst（更高一致性）。厂商自报生成速度约快 50%；支持 GIF；API 新增 markup、SVG、complexity 参数。文中称每周约生成 40 亿张图。暂无单独技术报告，安全细节见系统卡。
+发布 Images 2.6：ChatGPT/Codex/API 可用；API 提供 Flare（更快）与 Sunburst（更高一致性）。厂商自报生成速度约快 50%（未披露测量方法）；支持 GIF；API 新增 markup、SVG、complexity 参数。文中称每周约生成 40 亿张图（厂商自报）。暂无单独技术报告，安全细节见系统卡。
 
 ## 原文
 
@@ -22,7 +22,7 @@
 
 ## 核验
 
-待核
+⚠️ 部分核实（暂无技术报告；速度/用量厂商自报无测量方法） · [核验.md](核验.md)
 
 ## 深度解析
 

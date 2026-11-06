@@ -14,7 +14,7 @@
 
 ## 摘要
 
-Hugging Face 模型卡：开源权重的原生多模态 agentic 模型，总参数 2.8T、激活约 104B 的 MoE，1M 上下文。从 Kimi K3 经大规模联合 RL 后训练。配套技术博客此前已收录（2026-10-24）。本文件夹记录权重公开与模型卡内容。
+Hugging Face 模型卡：开源权重的原生多模态 agentic 模型，总参数 2.8T、激活约 104B 的 MoE，1M 上下文。从 Kimi K3 经大规模联合 RL 后训练。配套技术博客此前已收录（2026-10-24）。本文件夹记录权重公开与模型卡内容。HF 未 gated；许可为 Kimi K3.1-Pro License（other）；Artificial Analysis Index 46（第三方，2026-11-06）。
 
 ## 原文
 
@@ -22,7 +22,7 @@ Hugging Face 模型卡：开源权重的原生多模态 agentic 模型，总参�
 
 ## 核验
 
-待核
+✅ 能核实 · [核验.md](核验.md)
 
 ## 深度解析
 
