@@ -4,11 +4,11 @@
 
 ## 按日期
 
-- 2026-11-07 · Anthropic · [The components of agent memory](anthropic/2026-11-07-components-of-agent-memory/README.md) · 官方博客 · 待核
-- 2026-11-06 · Ai2 · [ToyBlocks: A controlled world for robot learning and evaluation](ai2/2026-11-06-toyblocks/README.md) · 官方博客 · 待核
-- 2026-11-06 · NVIDIA · [Interactive World Simulation with Cosmos for Physical AI](nvidia/2026-11-06-cosmos3-interactive-world-sim-tech-report/README.md) · 技术报告 · 待核
-- 2026-11-06 · NVIDIA · [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](nvidia/2026-11-06-cosmos3-interactive-world-sim-blog/README.md) · 官方博客 · 待核
-- 2026-11-06 · OpenAI · [Measuring how AI agents handle everyday wet-lab science](openai/2026-11-06-biobasicsbench/README.md) · 官方博客 · 待核
+- 2026-11-07 · Anthropic · [The components of agent memory](anthropic/2026-11-07-components-of-agent-memory/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-06 · Ai2 · [ToyBlocks: A controlled world for robot learning and evaluation](ai2/2026-11-06-toyblocks/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-06 · NVIDIA · [Interactive World Simulation with Cosmos for Physical AI](nvidia/2026-11-06-cosmos3-interactive-world-sim-tech-report/README.md) · 技术报告 · ✅ 能核实
+- 2026-11-06 · NVIDIA · [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](nvidia/2026-11-06-cosmos3-interactive-world-sim-blog/README.md) · 官方博客 · ⚠️ 部分核实
+- 2026-11-06 · OpenAI · [Measuring how AI agents handle everyday wet-lab science](openai/2026-11-06-biobasicsbench/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-05 · OpenAI · [GPT-6 Cyber System Card](openai/2026-11-05-gpt-6-cyber-system-card/README.md) · 系统卡 · ✅ 能核实 · [深度解析](openai/2026-11-05-gpt-6-cyber-system-card/深度解析.md)
 - 2026-11-05 · OpenAI · [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](openai/2026-11-05-introducing-gpt-6-cyber/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-05 · Google DeepMind · [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](google-deepmind/2026-11-05-gemini-omni-1-2-flash/README.md) · 官方博客 · ⚠️ 部分核实

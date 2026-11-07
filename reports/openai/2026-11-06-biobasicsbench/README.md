@@ -22,7 +22,7 @@ OpenAI 与生物技术公司 Ligo 合作推出 BioBasicsBench：100 个来自真
 
 ## 核验
 
-待核
+✅ 能核实，详见 [核验.md](核验.md)
 
 ## 深度解析
 

@@ -14,7 +14,7 @@
 
 ## 摘要
 
-Anthropic 工程博客讲 Claude 的跨会话记忆设计和「dreaming」（离线回看日志、整理和纠正记忆）。用 CL-Bench 1.0、Claude 玩宝可梦、Stainless 内部文档语料和 Harvey LAB 基准做了多组评测：例如 dreaming 从 2 个会话扩到 128 个会话时，25 个问题的得分从 13% 升到 48%（厂商自报）。只有博客，暂无技术报告。
+Anthropic 工程博客讲 Claude 的跨会话记忆设计和「dreaming」（离线回看日志、整理和纠正记忆）。用 CL-Bench 1.0、Claude 玩宝可梦、Stainless 内部文档语料和 Harvey LAB 基准做了多组评测：例如 dreaming 从 2 个会话扩到 128 个会话时，25 个问题的得分从 13% 升到 48%（厂商自报；Opus 5、只用 wiki 作答、内部 Stainless 语料）。只有博客，暂无技术报告。
 
 ## 原文
 
@@ -22,7 +22,7 @@ Anthropic 工程博客讲 Claude 的跨会话记忆设计和「dreaming」（离
 
 ## 核验
 
-待核
+✅ 能核实，详见 [核验.md](核验.md)
 
 ## 深度解析
 

@@ -14,7 +14,7 @@
 
 ## 摘要
 
-NVIDIA 在 Hugging Face 博客发布 Cosmos 3 家族的四个开放权重检查点，用于交互式世界模拟和多传感器多视角驾驶场景生成。博客写四个模型都是 Cosmos 3 Nano 的后训练版本、可训练参数 16B（厂商自报），许可为 OpenMDW1.1。博客概述了四阶段训练配方（双向适配、Teacher Forcing、一致性蒸馏、Self Forcing），完整细节见同日技术报告。
+NVIDIA 在 Hugging Face 博客发布 Cosmos 3 家族的四个开放权重检查点，用于交互式世界模拟和多传感器多视角驾驶场景生成。博客写四个模型都是 Cosmos 3 Nano 的后训练版本、可训练参数 16B（厂商自报；HF API 统计权重约 15.16B），许可为 OpenMDW1.1。博客概述了四阶段训练配方（双向适配、Teacher Forcing、一致性蒸馏、Self Forcing），完整细节见同日技术报告。
 
 ## 原文
 
@@ -22,7 +22,7 @@ NVIDIA 在 Hugging Face 博客发布 Cosmos 3 家族的四个开放权重检查�
 
 ## 核验
 
-待核
+⚠️ 部分核实（16B 可训练参数为厂商自报，HF API safetensors 统计约 15.16B，PDF 未写），详见 [核验.md](核验.md)
 
 ## 深度解析
 

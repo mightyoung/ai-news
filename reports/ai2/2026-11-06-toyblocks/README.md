@@ -14,7 +14,7 @@
 
 ## 摘要
 
-Ai2 提出 FoundationWorlds 框架，首个环境 ToyBlocks 是开源的机械臂加积木桌面仿真，用来做可控的机器人学习实验：自动生成任务和示范、可变训练数据、做针对性评测并追溯失败原因。短时技能用强化学习和运动规划在 Isaac Lab 中生成。代码在 github.com/allenai/ToyBlocks，配套模型在 HF。只有博客，暂无技术报告。
+Ai2 提出 FoundationWorlds 框架，首个环境 ToyBlocks 是开源的机械臂加积木桌面仿真，用来做可控的机器人学习实验：自动生成任务和示范、可变训练数据、做针对性评测并追溯失败原因。短时技能用强化学习和运动规划在 Isaac Lab 中生成。代码在 github.com/allenai/ToyBlocks，配套模型在 HF。只有博客，暂无技术报告。许可：代码与模型 Apache-2.0，数据集 ODC-BY。
 
 ## 原文
 
@@ -22,7 +22,7 @@ Ai2 提出 FoundationWorlds 框架，首个环境 ToyBlocks 是开源的机械�
 
 ## 核验
 
-待核
+✅ 能核实，详见 [核验.md](核验.md)
 
 ## 深度解析
 
