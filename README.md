@@ -86,6 +86,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### 顶刊（journals）
 
+- [2026-11-09](papers/journals/2026-11-09/README.md) — 分形吸引域与训练不可复现（NMI）、人类与智能体的内在动机探索（PNAS）、Coachable Agents（TMLR）
 - [2026-11-02](papers/journals/2026-11-02/README.md) — EVENET（NMI，粒子对撞基础模型）
 
 ### 顶会（conferences）
