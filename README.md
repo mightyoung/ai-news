@@ -50,6 +50,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### Hugging Face 热门
 
+- [2026-11-09](papers/huggingface/2026-11-09/README.md) — 认知共生体（AI 增强人类智能）、VFlash（图元一次解码）、SLA（空间-语言-动作）、Harness-S（兄弟 harness）、BestRand（基准压缩）
 - [2026-11-06](papers/huggingface/2026-11-06/README.md) — TurnWise（流式视频回合级 RL）、NEO-VLA（原生 VLA）、FrontierPhysics、多轮 Agent RL 剖析、OPD 泛化局限
 - [2026-11-04](papers/huggingface/2026-11-04/README.md) — Agentic 图形学综述、Wave Forcing、CUA-Master、CoworkOS、O³PD（只学排序的在线蒸馏）
 - [2026-11-03](papers/huggingface/2026-11-03/README.md) — FrameForge、R²Orch、System-1 放行 System-2（Conditional Interaction）、REA（具身大脑-小脑路由运行时）、Follow the Gradient（SimpleLoRIF / SafeTulu）
@@ -69,6 +70,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### arXiv 精选
 
+- [2026-11-09](papers/arxiv/2026-11-09/README.md) — RLVR 在 SFT 之上的边际价值、测试时自博弈（TTSP）、Grounded Reasoning 何时有用
 - [2026-11-06](papers/arxiv/2026-11-06/README.md) — 奖励预算（Reward Budgeting）、C-GRPO（共形 GRPO）、RACE（机器人检查点离线排序）
 - [2026-11-04](papers/arxiv/2026-11-04/README.md) — GRPO 组内锦标赛（Team-GRPO）、机器人预训练的 pass@k（Beyond Validation Loss）、测试时训练合并推理（TTT-Consolidate）
 - [2026-11-03](papers/arxiv/2026-11-03/README.md) — bf16 舍入吞掉 RL 更新（Fair Cast）、仿真接触伪影审计（SimuGuard）、算力对齐的循环 Transformer（UpLoop）
