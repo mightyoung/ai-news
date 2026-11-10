@@ -4,9 +4,9 @@
 
 ## 按日期
 
-- 2026-11-09 · Anthropic · [Claude Fable 5.2 & Claude Mythos 5.2 System Card](anthropic/2026-11-09-claude-fable-mythos-5-2-system-card/README.md) · 系统卡 · 待核
-- 2026-11-09 · Anthropic · [Introducing Claude Fable 5.2 and Claude Mythos 5.2](anthropic/2026-11-09-claude-fable-mythos-5-2-announcement/README.md) · 官方博客 · 待核
-- 2026-11-09 · OpenAI · [Control Room](openai/2026-11-09-control-room/README.md) · 官方博客 · 待核
+- 2026-11-09 · Anthropic · [Claude Fable 5.2 & Claude Mythos 5.2 System Card](anthropic/2026-11-09-claude-fable-mythos-5-2-system-card/README.md) · 系统卡 · ✅ 能核实
+- 2026-11-09 · Anthropic · [Introducing Claude Fable 5.2 and Claude Mythos 5.2](anthropic/2026-11-09-claude-fable-mythos-5-2-announcement/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-09 · OpenAI · [Control Room](openai/2026-11-09-control-room/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-07 · Anthropic · [The components of agent memory](anthropic/2026-11-07-components-of-agent-memory/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-06 · Ai2 · [ToyBlocks: A controlled world for robot learning and evaluation](ai2/2026-11-06-toyblocks/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-06 · NVIDIA · [Interactive World Simulation with Cosmos for Physical AI](nvidia/2026-11-06-cosmos3-interactive-world-sim-tech-report/README.md) · 技术报告 · ✅ 能核实 · [深度解析](nvidia/2026-11-06-cosmos3-interactive-world-sim-tech-report/深度解析.md)
