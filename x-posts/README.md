@@ -16,6 +16,7 @@ x-posts/
 
 ## 索引
 
+- [2026-11-10](2026-11-10/README.md) — Claude Fable 5.2 / Mythos 5.2、1,000 智能体形式化 FLT、OpenAI Control Room
 - [2026-11-09](2026-11-09/README.md) — Anthropic 科研人员怎么用 Claude（27–52% / 中位 38%）
 - [2026-11-06](2026-11-06/README.md) — GPT-6 Cyber + Daybreak、OpenAI Linux 948-LPE 流水线、Jim Fan VFlash、Inkling 2 Small
 - [2026-11-04](2026-11-04/README.md) — Anthropic FlashProve、OpenAI 实体工程、Raschka Open October
