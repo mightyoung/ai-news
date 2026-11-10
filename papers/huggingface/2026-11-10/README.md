@@ -1,0 +1,11 @@
+# Hugging Face 热门论文 — 2026-11-10
+
+> 批次说明：用的是 **2026-11-09** 的 Hugging Face Daily Papers 批次（`daily_papers?date=2026-11-09`，抓取时共 31 篇；今天 11-10 的批次尚未开放）。上一期晨报抓到 11-09 时只有 1 篇，现在这批已补全。按 👍 数结合研究价值挑 5 篇，已排除 papers/ 中已有的论文，序号只是挑选顺序，不是 HF 榜单名次。机构按 HF 页面署名，页面未标的写「HF 页面未标注」。
+
+| # | 论文 | 👍 | 机构 | 链接 | 核验 | 本地 |
+|---|---|---|---|---|---|---|
+| 1 | **SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes**<br>SplatAnything：用高斯间距归一化让前馈式 3DGS 适应任意场景 | 60 | Zhejiang University（HF 页面机构） | [HF](https://huggingface.co/papers/2611.08264) · [arXiv](https://arxiv.org/abs/2611.08264) | 待核 | [PDF](2611.08264-splatanything-gaussian-spacing-normalization/paper.pdf) · [待补](2611.08264-splatanything-gaussian-spacing-normalization/) |
+| 2 | **P²-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors**<br>P²-MOPD：用参数先验加速多教师在线蒸馏 | 44 | StepFun（HF 页面机构） | [HF](https://huggingface.co/papers/2611.03953) · [arXiv](https://arxiv.org/abs/2611.03953) | 待核 | [PDF](2611.03953-p2-mopd-multi-teacher-distillation/paper.pdf) · [待补](2611.03953-p2-mopd-multi-teacher-distillation/) |
+| 3 | **PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?**<br>PCBRouteAgent：LLM Agent 离 PCB 布线工程师还有多远 | 28 | HF 页面未标注 | [HF](https://huggingface.co/papers/2611.08175) · [arXiv](https://arxiv.org/abs/2611.08175) | 待核 | [PDF](2611.08175-pcbrouteagent-llm-pcb-routing/paper.pdf) · [待补](2611.08175-pcbrouteagent-llm-pcb-routing/) |
+| 4 | **Beneath the Surface: What We Overlook When We Talk About Agent Evolution**<br>表面之下：谈 Agent 进化时被忽略的东西 | 23 | University of Science and Technology of China（HF 页面机构） | [HF](https://huggingface.co/papers/2611.07624) · [arXiv](https://arxiv.org/abs/2611.07624) | 待核 | [PDF](2611.07624-beneath-surface-agent-evolution/paper.pdf) · [待补](2611.07624-beneath-surface-agent-evolution/) |
+| 5 | **Video-Coder: Reinforcing Agentic Coding for Video Generation**<br>Video-Coder：用强化学习训练「写代码生成视频」的 Agent | 16 | University of Central Florida（HF 页面机构） | [HF](https://huggingface.co/papers/2611.09894) · [arXiv](https://arxiv.org/abs/2611.09894) | 待核 | [PDF](2611.09894-video-coder-agentic-coding-video-generation/paper.pdf) · [待补](2611.09894-video-coder-agentic-coding-video-generation/) |
