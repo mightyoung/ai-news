@@ -4,17 +4,17 @@
 
 ## 按日期
 
-- 2026-11-11 · Google DeepMind · [Gemini 4 Carbon Model Card](google-deepmind/2026-11-11-gemini-4-carbon-model-card/README.md) · 模型卡 · 待核
-- 2026-11-11 · Google DeepMind · [Gemini 4 Carbon Safety & Security Report](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/README.md) · 系统卡 · 待核
-- 2026-11-11 · Google DeepMind · [Gemini 4 Carbon is now available](google-deepmind/2026-11-11-gemini-4-carbon-now-available/README.md) · 官方博客 · 待核
-- 2026-11-11 · MiniMax · [MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era](minimax/2026-11-11-minimax-h3-image-blog/README.md) · 官方博客 · 待核
-- 2026-11-11 · MiniMax · [MiniMax-H3-Image 模型卡（Hugging Face）](minimax/2026-11-11-minimax-h3-image-model-card/README.md) · 模型卡 · 待核
-- 2026-11-11 · Microsoft · [Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents](microsoft/2026-11-11-lazarus-dormant-neuron-backdoor-blog/README.md) · 官方博客 · 待核
-- 2026-11-10 · Google DeepMind · [AlphaProof Code: Verifying Signal’s Security at the Machine-Code Level](google-deepmind/2026-11-10-alphaproof-code-signal-paper/README.md) · 技术报告 · 待核
-- 2026-11-10 · Google DeepMind · [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](google-deepmind/2026-11-10-alphaproof-code-blog/README.md) · 官方博客 · 待核
-- 2026-11-10 · Google DeepMind · [Gemini Robotics 2.5 accelerates real-world general dexterity](google-deepmind/2026-11-10-gemini-robotics-2-5/README.md) · 官方博客 · 待核
-- 2026-11-10 · Amazon · [Mitra-v2 Technical Report](amazon/2026-11-10-mitra-v2-technical-report/README.md) · 技术报告 · 待核
-- 2026-11-10 · Amazon · [Mitra-v2: Scaling synthetic pretraining for tabular foundation models](amazon/2026-11-10-mitra-v2-blog/README.md) · 官方博客 · 待核
+- 2026-11-11 · Google DeepMind · [Gemini 4 Carbon Model Card](google-deepmind/2026-11-11-gemini-4-carbon-model-card/README.md) · 模型卡 · ✅ 能核实
+- 2026-11-11 · Google DeepMind · [Gemini 4 Carbon Safety & Security Report](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/README.md) · 系统卡 · ✅ 能核实
+- 2026-11-11 · Google DeepMind · [Gemini 4 Carbon is now available](google-deepmind/2026-11-11-gemini-4-carbon-now-available/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-11 · MiniMax · [MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era](minimax/2026-11-11-minimax-h3-image-blog/README.md) · 官方博客 · ⚠️ 部分核实
+- 2026-11-11 · MiniMax · [MiniMax-H3-Image 模型卡（Hugging Face）](minimax/2026-11-11-minimax-h3-image-model-card/README.md) · 模型卡 · ⚠️ 部分核实
+- 2026-11-11 · Microsoft · [Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents](microsoft/2026-11-11-lazarus-dormant-neuron-backdoor-blog/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-10 · Google DeepMind · [AlphaProof Code: Verifying Signal’s Security at the Machine-Code Level](google-deepmind/2026-11-10-alphaproof-code-signal-paper/README.md) · 技术报告 · ✅ 能核实
+- 2026-11-10 · Google DeepMind · [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](google-deepmind/2026-11-10-alphaproof-code-blog/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-10 · Google DeepMind · [Gemini Robotics 2.5 accelerates real-world general dexterity](google-deepmind/2026-11-10-gemini-robotics-2-5/README.md) · 官方博客 · ⚠️ 部分核实
+- 2026-11-10 · Amazon · [Mitra-v2 Technical Report](amazon/2026-11-10-mitra-v2-technical-report/README.md) · 技术报告 · ✅ 能核实
+- 2026-11-10 · Amazon · [Mitra-v2: Scaling synthetic pretraining for tabular foundation models](amazon/2026-11-10-mitra-v2-blog/README.md) · 官方博客 · ⚠️ 部分核实
 - 2026-11-09 · Anthropic · [Claude Fable 5.2 & Claude Mythos 5.2 System Card](anthropic/2026-11-09-claude-fable-mythos-5-2-system-card/README.md) · 系统卡 · ✅ 能核实 · [深度解析](anthropic/2026-11-09-claude-fable-mythos-5-2-system-card/深度解析.md)
 - 2026-11-09 · Anthropic · [Introducing Claude Fable 5.2 and Claude Mythos 5.2](anthropic/2026-11-09-claude-fable-mythos-5-2-announcement/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-09 · OpenAI · [Control Room](openai/2026-11-09-control-room/README.md) · 官方博客 · ✅ 能核实

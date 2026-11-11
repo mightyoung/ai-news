@@ -16,7 +16,7 @@
 
 ## 摘要
 
-模型卡写明 H3-Image 把文生图和图像编辑统一在一个检查点；输出约 16 百万像素（4096×4096 至 6272×2688），不用放大器；检查点蒸馏到 6 个采样步（6 NFE），不使用无分类器引导。扩散 Transformer（DiT）为 H3 架构去掉音频层，33.1B 参数、50 层、单流稠密；文本编码器沿用 MiniMax-H3 的 Qwen3-VL 文本编码器，取第 50 层隐藏状态；VAE 为 16 倍下采样、24 个潜在通道。BF16 DiT 约 68.65 GB；PE 模型 NVFP4 约 17.9 GB。许可为 MiniMax-H3-Image Community License（license: other）。
+模型卡写明 H3-Image 把文生图和图像编辑统一在一个检查点；输出约 16 百万像素（4096×4096 至 6272×2688），不用放大器；检查点蒸馏到 6 个采样步（6 NFE），不使用无分类器引导。扩散 Transformer（DiT）为 H3 架构去掉音频层，33.1B 参数、50 层、单流稠密；文本编码器沿用 MiniMax-H3 的 Qwen3-VL 文本编码器，取第 50 层隐藏状态；VAE 为 16 倍下采样、24 个潜在通道。模型卡 Model Zoo 写 BF16 (DiT) 68.65 GB，但同卡下载表和 HF API 的 transformer/ 为 66.28 GB（68.65 GB 约为 DiT + VAE + tokenizer 合计）；卡上写文本编码器不在本仓库，HF API 显示仓库实有 text_encoder/ 约 66.7 GB，全仓约 204 GB；PE 模型 NVFP4 约 17.9 GB。许可为 MiniMax-H3-Image Community License（license: other）：适用地域不含欧盟、英国、韩国、美国；年化收入超 100 万美元或提供托管服务需另行书面授权。
 
 ## 原文
 
@@ -24,7 +24,7 @@
 
 ## 核验
 
-待核
+⚠️ 部分核实（68.65 GB 与卡内 66.28 GB 不符；仓库实有 text_encoder；许可排除欧盟、英国、韩国、美国） · [核验.md](核验.md)
 
 ## 深度解析
 

@@ -16,7 +16,7 @@
 
 ## 摘要
 
-摘要称 Mitra-v2 是只用合成数据预训练的表格基础模型，预训练分布比 Mitra-v1 更大更多样，骨干是小型二维 Transformer（行与列两个方向做注意力）。在 TabArena 和 TALENT（合计超过 300 个真实数据集）上评测，摘要称与工业级 TabFM、EXAONE Tabular 同水平，并以 77M 参数匹配 16 亿参数的 TabFM（均为作者自报，设置见论文）。模型权重、推理与微调代码和评测结果以 Apache-2.0 许可发布。作者单位为 Amazon。
+摘要称 Mitra-v2 是只用合成数据预训练的表格基础模型，预训练分布比 Mitra-v1 更大更多样，骨干是小型二维 Transformer（行与列两个方向做注意力）。在 TabArena 和 TALENT（合计超过 300 个真实数据集）上评测，摘要称与工业级 TabFM、EXAONE Tabular 同水平，并以 77M 参数（分类 75.7M、回归 76.7M）匹配 16 亿参数的 TabFM（作者自报：TabArena 合并榜 1,774.6 vs 1,773.5 Elo，统计持平，一小时预算、默认微调 + 8 份 bagging，表 3，第 12 页）。TabArena 官方现榜（2026-11-09）上 Mitra-v2 为 1802、TabFM 为 1826，前面还有多个更新的模型。模型权重、推理与微调代码和评测结果以 Apache-2.0 许可发布。作者单位为 Amazon。
 
 ## 原文
 
@@ -24,7 +24,7 @@
 
 ## 核验
 
-待核
+✅ 能核实（「持平 TabFM」基于 9 月冻结池；TabArena 现榜 Mitra-v2 1802、TabFM 1826） · [核验.md](核验.md)
 
 ## 深度解析
 

@@ -16,7 +16,7 @@
 
 ## 摘要
 
-论文提出 AlphaProof Code：一个由人类指导的 Lean 规约编写智能体、一套 AArch64 机器码形式语义和一组自主证明智能体组成的框架，证明只有通过 Lean 内核检查并且与保留的规约一致才会被接受。应用于 libsignal，摘要称生成约 650 万行机器检查的 Lean 证明代码，依托约 2.6 万行可信规约与 AArch64 语义；证明覆盖 PQXDH 握手与 Triple Ratchet，建立前向保密、认证、泄露后安全和握手保密。作者署名为 Google DeepMind 与 Google（厂商自报）。Lean 代码在 google-deepmind.github.io/code-verification。
+论文提出 AlphaProof Code：一个由人类指导的 Lean 规约编写智能体、一套 AArch64 机器码形式语义和一组自主证明智能体组成的框架，证明只有通过 Lean 内核检查并且与保留的规约一致才会被接受。应用于 libsignal，摘要称生成约 650 万行机器检查的 Lean 证明代码，依托约 2.6 万行可信规约与 AArch64 语义（约 1.8 万行规约定义 + 约 8 千行 AArch64 语义，第 25 页）；证明覆盖 PQXDH 握手与 Triple Ratchet，建立前向保密、认证、泄露后安全和握手保密。作者署名为 Google DeepMind 与 Google（厂商自报）。Lean 代码在 google-deepmind.github.io/code-verification。证明完全由 Gemini 4 Carbon 驱动的智能体团队生成，规约由人类与 Gemini 4 Carbon、Claude Opus 5.5 驱动的智能体共同起草（第 25–26 页）；代码仓库 README 声明 Apache-2.0，LICENSE 文件只列第三方条款，libsignal 部分为 AGPL-3.0。
 
 ## 原文
 
@@ -24,7 +24,7 @@
 
 ## 核验
 
-待核
+✅ 能核实（作者自报；可信基约 1.8 万行规约 + 8 千行 AArch64 语义） · [核验.md](核验.md)
 
 ## 深度解析
 

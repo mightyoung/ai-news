@@ -18,7 +18,7 @@
 
 ## 摘要
 
-博客宣布 Gemini 4 Carbon 向开发者、企业、科学家和消费者开放；两周前已通过 Fairwind Program 向网络安全防御者提供。博客称它在 CursorBench 4.0、Perplexity 的 WANDR 和 Zapier 的 AutomationBench 上排第一，每任务成本比下一名外部模型低 2 倍以上（厂商自报，引用的是合作方基准）。API 价格为每百万 token 输入 2 美元、输出 10 美元（与 Argon 的介绍期价相同）。同时预览 Antigravity 的 /swarm 多智能体功能。博客链接了模型卡和安全报告。
+博客宣布 Gemini 4 Carbon 向开发者、企业、科学家和消费者开放；两周前已通过 Fairwind Program 向网络安全防御者提供。博客称它在 CursorBench 4.0、Perplexity 的 WANDR 和 Zapier 的 AutomationBench 上排第一，每任务成本比下一名外部模型低 2 倍以上（厂商自报，引用的是合作方基准；核验时 CursorBench 4.0 与 AutomationBench 1.0.6 已独立对上：60.4% vs Fable 5.2 Max 60.0%、53.88% vs 51.45%；WANDR 未能读取）。API 介绍期价为每百万 token 输入 2 美元、输出 10 美元（与 Argon 的介绍期价相同），到 2026-11-30 截止，12 月 1 日起为 4 美元 / 20 美元（博客脚注、AI Studio 价格页）。同时预览 Antigravity 的 /swarm 多智能体功能。博客链接了模型卡和安全报告。
 
 ## 原文
 
@@ -26,7 +26,7 @@
 
 ## 核验
 
-待核
+✅ 能核实（$2/$10 为介绍期价，12-01 起 $4/$20；WANDR 未能核对） · [核验.md](核验.md)
 
 ## 深度解析
 

@@ -14,11 +14,11 @@
 
 > 日期说明：页面日期 Nov 10, 2026；RSS 时间 2026-11-10 16:03:47 UTC，即北京时间 2026-11-11 00:03。
 
-> 模型卡正文只写 Carbon 与 Argon 的差异，训练细节需看 Argon 模型卡；模型卡第 4 页的基准结果表是图片。
+> 模型卡正文只写 Carbon 与 Argon 的差异，训练细节需看 Argon 模型卡；模型卡物理第 5 页（页脚 4）的基准结果表是图片。
 
 ## 摘要
 
-模型卡写明 Gemini 4 Carbon 基于 Gemini 4 Argon，架构、训练数据、硬件、软件等项均指向 Argon 模型卡；输入为文本、图像、音频、视频，输入加输出合计上下文最长 1M token，输出为文本。知识截止 2026 年 3 月。分发渠道含 Gemini App、Gemini API、AI Studio、Gemini for business、Antigravity、AI Mode，以及面向经验证网络安全防御者的 Fairwind Program。自动化安全评测相对 Argon：文本安全 +3.50pp，多语言安全 +3.55pp，图像到文本安全 −1.00pp（厂商自报）。基准结果在第 4 页是图片，本次未转写。
+模型卡写明 Gemini 4 Carbon 基于 Gemini 4 Argon，架构、训练数据、硬件、软件等项均指向 Argon 模型卡；输入为文本、图像、音频、视频，输入加输出合计上下文最长 1M token，输出为文本。知识截止 2026 年 3 月。分发渠道含 Gemini App、Gemini API、AI Studio、Gemini for business、Antigravity、AI Mode，以及面向经验证网络安全防御者的 Fairwind Program。自动化安全评测相对 Argon：文本安全 +3.50pp，多语言安全 +3.55pp，图像到文本安全 −1.00pp（厂商自报；相对 Argon 的百分点变化、内部自动化评测、口径已改不能与旧卡比，图像到文本为退步，第 8 页）。基准结果表在物理第 5 页（页脚 4），为图片，核验时已转读：CWE-bench 71.0%、AutomationBench 53.9% 与第三方榜一致；AA Index v5.0 写 59（AA 榜 2026-11-11 为 60）。
 
 ## 原文
 
@@ -26,7 +26,7 @@
 
 ## 核验
 
-待核
+✅ 能核实（安全差值为内部自动化评测、厂商自报；基准表在物理第 5 页） · [核验.md](核验.md)
 
 ## 深度解析
 
