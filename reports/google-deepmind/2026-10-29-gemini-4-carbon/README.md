@@ -34,4 +34,6 @@ Google DeepMind 发布前沿模型 Gemini 4 Carbon，称其在 Artificial Analys
 
 ## 相关文档
 
-- 暂无同一模型的其他文件夹
+- [Gemini 4 Carbon Model Card（2026-11-11）](../2026-11-11-gemini-4-carbon-model-card/README.md)
+- [Gemini 4 Carbon Safety & Security Report（2026-11-11）](../2026-11-11-gemini-4-carbon-safety-report/README.md)
+- [Gemini 4 Carbon is now available（2026-11-11）](../2026-11-11-gemini-4-carbon-now-available/README.md)
