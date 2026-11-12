@@ -50,6 +50,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### Hugging Face 热门
 
+- [2026-11-12](papers/huggingface/2026-11-12/README.md) — Tree-Ising、WICL（世界上下文学习）、APEX 流式视频、WikiTrace 证据记忆、dNaViT
 - [2026-11-11](papers/huggingface/2026-11-11/README.md) — LingBot-Touch（异构触觉表征）、WorldFoundry、Sage-Taiyi、Reframe、InfraRSI
 - [2026-11-10](papers/huggingface/2026-11-10/README.md) — SplatAnything（高斯间距归一化）、P²-MOPD（多教师在线蒸馏）、PCBRouteAgent、Agent 进化的盲点、Video-Coder
 - [2026-11-09](papers/huggingface/2026-11-09/README.md) — 认知共生体（AI 增强人类智能）、VFlash（图元一次解码）、SLA（空间-语言-动作）、Harness-S（兄弟 harness）、BestRand（基准压缩）
@@ -72,6 +73,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### arXiv 精选
 
+- [2026-11-12](papers/arxiv/2026-11-12/README.md) — GRPO 稠密奖励与等算力、VLA 有多少是 kNN、逐字节 27B 模型
 - [2026-11-11](papers/arxiv/2026-11-11/README.md) — Deletion Tuning（删权重微调）、Coding or Cheating（编程 Agent 找答案）、VLA 需要多少示教
 - [2026-11-10](papers/arxiv/2026-11-10/README.md) — Flex-RSI（递归自我改进基准）、并行 Agent 团队的测试时算力、Goodhart in the Planner
 - [2026-11-09](papers/arxiv/2026-11-09/README.md) — RLVR 在 SFT 之上的边际价值、测试时自博弈（TTSP）、Grounded Reasoning 何时有用
