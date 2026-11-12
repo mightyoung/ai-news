@@ -4,6 +4,7 @@
 
 ## 按日期
 
+- 2026-11-11 · Google DeepMind · [AlphaGenome 2](google-deepmind/2026-11-11-alphagenome-2-blog/README.md) · 官方博客 · 待核
 - 2026-11-11 · Google DeepMind · [Gemini 4 Carbon Model Card](google-deepmind/2026-11-11-gemini-4-carbon-model-card/README.md) · 模型卡 · ✅ 能核实
 - 2026-11-11 · Google DeepMind · [Gemini 4 Carbon Safety & Security Report](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/README.md) · 系统卡 · ✅ 能核实 · [深度解析](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/深度解析.md)
 - 2026-11-11 · Google DeepMind · [Gemini 4 Carbon is now available](google-deepmind/2026-11-11-gemini-4-carbon-now-available/README.md) · 官方博客 · ✅ 能核实
@@ -87,6 +88,7 @@
 
 - [2026-11-11-gemini-4-carbon-model-card](google-deepmind/2026-11-11-gemini-4-carbon-model-card/README.md) · 模型卡
 - [2026-11-11-gemini-4-carbon-safety-report](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/README.md) · 系统卡 · [深度解析](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/深度解析.md)
+- [2026-11-11-alphagenome-2-blog](google-deepmind/2026-11-11-alphagenome-2-blog/README.md) · 官方博客
 - [2026-11-11-gemini-4-carbon-now-available](google-deepmind/2026-11-11-gemini-4-carbon-now-available/README.md) · 官方博客
 - [2026-11-10-alphaproof-code-signal-paper](google-deepmind/2026-11-10-alphaproof-code-signal-paper/README.md) · 技术报告 · [深度解析](google-deepmind/2026-11-10-alphaproof-code-signal-paper/深度解析.md)
 - [2026-11-10-alphaproof-code-blog](google-deepmind/2026-11-10-alphaproof-code-blog/README.md) · 官方博客
