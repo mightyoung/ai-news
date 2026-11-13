@@ -50,6 +50,7 @@ reports/                             # 来源：厂商技术报告、系统卡�
 
 ### Hugging Face 热门
 
+- [2026-11-13](papers/huggingface/2026-11-13/README.md) — TOME-Math、SteerDistill、自学 RL、SparseRead、GTAGym
 - [2026-11-12](papers/huggingface/2026-11-12/README.md) — Tree-Ising、WICL（世界上下文学习）、APEX 流式视频、WikiTrace 证据记忆、dNaViT
 - [2026-11-11](papers/huggingface/2026-11-11/README.md) — LingBot-Touch（异构触觉表征）、WorldFoundry、Sage-Taiyi、Reframe、InfraRSI
 - [2026-11-10](papers/huggingface/2026-11-10/README.md) — SplatAnything（高斯间距归一化）、P²-MOPD（多教师在线蒸馏）、PCBRouteAgent、Agent 进化的盲点、Video-Coder
