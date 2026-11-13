@@ -16,6 +16,7 @@ x-posts/
 
 ## 索引
 
+- [2026-11-13](2026-11-13/README.md) — OpenAI Daybreak Defense Factory / Red Team、CoT 可监控性研究、Mollick 实验室开源 Primer
 - [2026-11-12](2026-11-12/README.md) — DeepMind AlphaGenome 2、AlphaProof Code 验证 Signal
 - [2026-11-11](2026-11-11/README.md) — GR00T 2、Gemini 4 Carbon + MKA、Gemini Robotics 2.5
 - [2026-11-10](2026-11-10/README.md) — Claude Fable 5.2 / Mythos 5.2、1,000 智能体形式化 FLT、OpenAI Control Room
