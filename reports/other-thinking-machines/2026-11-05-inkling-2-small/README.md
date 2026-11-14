@@ -30,4 +30,4 @@
 
 ## 相关文档
 
-- 暂无
+- [End-to-End 4-Bit Training](../2026-11-13-end-to-end-4-bit-training/README.md)（2026-11-13，补 NVFP4 训练配方）
