@@ -9,7 +9,7 @@
 | 官方链接 | https://www.anthropic.com/research/building-strong-safety-evaluations |
 | PDF 链接 | —（正文是网页；文中引用的 PDF 是既有 Claude Sonnet 5 系统卡，不是本文附件） |
 | arXiv id | — |
-| SHA-256 | 网页 HTML：3347eedaf655fe6005fe728a581409a7972602124e920c00fb60207bf6e61136 |
+| SHA-256 | 网页 HTML：3347eedaf655fe6005fe728a581409a7972602124e920c00fb60207bf6e61136（2026-11-14 再抓可见正文未变，仅脚本哈希不同） |
 | 页数 | — |
 
 ## 摘要
@@ -22,7 +22,7 @@ Anthropic Engineering 博客给出一套设计、运行和报告 AI 安全评测
 
 ## 核验
 
-待核
+[✅ 能核实](核验.md)（2026-11-14 T2 标准版）。官方方法博客存在，不是新模型或新系统卡；暂无技术报告。
 
 ## 深度解析
 

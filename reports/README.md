@@ -4,12 +4,12 @@
 
 ## 按日期
 
-- 2026-11-13 · Anthropic · [Building strong safety evaluations](anthropic/2026-11-13-building-strong-safety-evaluations/README.md) · 官方博客 · 待核
-- 2026-11-13 · Google Research · [Advancing science & engineering with Antigravity’s /teamwork](google-deepmind/2026-11-13-antigravity-teamwork-blog/README.md) · 官方博客 · 待核
-- 2026-11-13 · Thinking Machines Lab · [End-to-End 4-Bit Training](other-thinking-machines/2026-11-13-end-to-end-4-bit-training/README.md) · 官方博客 · 待核
-- 2026-11-13 · Ai2 · [XYBench: Helping with the problem behind the question](ai2/2026-11-13-xybench-blog/README.md) · 官方博客 · 待核
-- 2026-11-12 · InclusionAI · [Duo v1 模型卡（Hugging Face）](inclusionai/2026-11-12-duo-v1-model-card/README.md) · 模型卡 · 待核
-- 2026-11-11 · InclusionAI · [Duo: A Reciprocal World Model for Full-Duplex Interaction](inclusionai/2026-11-11-duo-v1-tech-report/README.md) · 技术报告 · 待核
+- 2026-11-13 · Anthropic · [Building strong safety evaluations](anthropic/2026-11-13-building-strong-safety-evaluations/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-13 · Google Research · [Advancing science & engineering with Antigravity’s /teamwork](google-deepmind/2026-11-13-antigravity-teamwork-blog/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-13 · Thinking Machines Lab · [End-to-End 4-Bit Training](other-thinking-machines/2026-11-13-end-to-end-4-bit-training/README.md) · 官方博客 · ✅ 能核实
+- 2026-11-13 · Ai2 · [XYBench: Helping with the problem behind the question](ai2/2026-11-13-xybench-blog/README.md) · 官方博客 · ⚠️ 部分核实（公开数据文档题量差 4 道）
+- 2026-11-12 · InclusionAI · [Duo v1 模型卡（Hugging Face）](inclusionai/2026-11-12-duo-v1-model-card/README.md) · 模型卡 · ✅ 能核实
+- 2026-11-11 · InclusionAI · [Duo: A Reciprocal World Model for Full-Duplex Interaction](inclusionai/2026-11-11-duo-v1-tech-report/README.md) · 技术报告 · ✅ 能核实
 - 2026-11-11 · Google DeepMind · [AlphaGenome 2](google-deepmind/2026-11-11-alphagenome-2-blog/README.md) · 官方博客 + 官方预印本 · ✅ 能核实
 - 2026-11-11 · Google DeepMind · [Gemini 4 Carbon Model Card](google-deepmind/2026-11-11-gemini-4-carbon-model-card/README.md) · 模型卡 · ✅ 能核实
 - 2026-11-11 · Google DeepMind · [Gemini 4 Carbon Safety & Security Report](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/README.md) · 系统卡 · ✅ 能核实 · [深度解析](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/深度解析.md)
