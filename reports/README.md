@@ -4,6 +4,10 @@
 
 ## 按日期
 
+- 2026-11-13 · Meituan LongCat · [LongCat-Video-Avatar 1.6 Technical Report](meituan/2026-11-13-longcat-video-avatar-1-6-tech-report/README.md) · 技术报告 · 待核
+- 2026-11-13 · Meituan LongCat · [LongCat-Video-Avatar 1.6 模型卡（Hugging Face）](meituan/2026-11-13-longcat-video-avatar-1-6-model-card/README.md) · 模型卡 · 待核
+- 2026-11-13 · Google DeepMind · [Gemini 4 Hydrogen Model Card](google-deepmind/2026-11-13-gemini-4-hydrogen-model-card/README.md) · 模型卡 · 待核
+- 2026-11-13 · Google DeepMind · [Introducing Gemini 4 Hydrogen](google-deepmind/2026-11-13-gemini-4-hydrogen/README.md) · 官方博客 · 待核
 - 2026-11-13 · Anthropic · [Building strong safety evaluations](anthropic/2026-11-13-building-strong-safety-evaluations/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-13 · Google Research · [Advancing science & engineering with Antigravity’s /teamwork](google-deepmind/2026-11-13-antigravity-teamwork-blog/README.md) · 官方博客 · ✅ 能核实
 - 2026-11-13 · Thinking Machines Lab · [End-to-End 4-Bit Training](other-thinking-machines/2026-11-13-end-to-end-4-bit-training/README.md) · 官方博客 · ✅ 能核实
@@ -93,6 +97,8 @@
 
 ### Google DeepMind（`google-deepmind/`）
 
+- [2026-11-13-gemini-4-hydrogen-model-card](google-deepmind/2026-11-13-gemini-4-hydrogen-model-card/README.md) · 模型卡
+- [2026-11-13-gemini-4-hydrogen](google-deepmind/2026-11-13-gemini-4-hydrogen/README.md) · 官方博客
 - [2026-11-13-antigravity-teamwork-blog](google-deepmind/2026-11-13-antigravity-teamwork-blog/README.md) · 官方博客（Google Research）
 - [2026-11-11-gemini-4-carbon-model-card](google-deepmind/2026-11-11-gemini-4-carbon-model-card/README.md) · 模型卡
 - [2026-11-11-gemini-4-carbon-safety-report](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/README.md) · 系统卡 · [深度解析](google-deepmind/2026-11-11-gemini-4-carbon-safety-report/深度解析.md)
@@ -154,6 +160,8 @@
 
 ### Meituan LongCat（`meituan/`）
 
+- [2026-11-13-longcat-video-avatar-1-6-tech-report](meituan/2026-11-13-longcat-video-avatar-1-6-tech-report/README.md) · 技术报告
+- [2026-11-13-longcat-video-avatar-1-6-model-card](meituan/2026-11-13-longcat-video-avatar-1-6-model-card/README.md) · 模型卡
 - [2026-11-01-longcat-2-5-blog](meituan/2026-11-01-longcat-2-5-blog/README.md) · 官方博客
 
 ### InclusionAI（`inclusionai/`）
