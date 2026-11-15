@@ -16,7 +16,7 @@
 
 ## 摘要
 
-Hugging Face 模型卡宣布开源音频驱动数字人框架 LongCat-Video-Avatar 1.6，在 1.5 基础上改进表情自然度、唇音同步、面部与肢体配合，以及长视频生成时的视觉一致性，并称做了端到端推理优化。卡片列出的要点包括：减轻夸张或紧绷的口型、嘴唇过红和时间不稳定；缓解自回归续拍中的误差累积，使视频可以超过 10 分钟并保持身份与时间连贯；以及更快的端到端推理（厂商自报，模型卡 Key Features / Model Introduction）。权重声明为 MIT License，仓库含 `base_model`、`base_model_int8` 以及 `loraA` / `loraB`。更完整的训练与评测细节指向 GitHub 上的技术报告，已另建文件夹。卡片未给出独立的基准数字表。
+Hugging Face 模型卡宣布开源音频驱动数字人框架 LongCat-Video-Avatar 1.6，在 1.5 基础上改进表情自然度、唇音同步、面部与肢体配合，以及长视频生成时的视觉一致性，并称做了端到端推理优化。卡片列出的要点包括：减轻夸张或紧绷的口型、嘴唇过红和时间不稳定；缓解自回归续拍中的误差累积，使视频可以超过 10 分钟并保持身份与时间连贯；以及更快的端到端推理（厂商自报，模型卡 Key Features / Model Introduction）。Human Evaluation 节写与 1.5 及 OmniHuman-2.0 等比较，33,051 次有效两两投票，Bradley–Terry Elo 1068.1、排第 2、落后 OmniHuman-2.0，与技术报告 Fig. 1 / §4 一致（厂商自报）；与 1.5 的 Fig. 8 绝对分仍只在技术报告里。权重确已公开、无门禁（`usedStorage=77623900551` 字节，约 72.29 GiB；`base_model` 约 29.53 GiB、`base_model_int8` 约 14.79 GiB、`loraA` / `loraB` 各约 2.35 GiB）。卡片 Quick Start 将 `loraA` 标为 DMD LoRA、`loraB` 标为 OPSD LoRA，与技术报告「推理合并 GRPO + OPSD LoRA」的表述不一致，原文未解释对应关系。许可以 GitHub `LICENSE`（MIT，Copyright (c) 2025 Meituan）与 `cardData.license=mit` 为准；HF 仓无独立 LICENSE 文件（徽章与「See the LICENSE file」会 404）。卡片另写「不授予美团商标或专利许可」，此句不在 GitHub LICENSE 原文中。仓内捆绑的 `whisper-large-v3/` 子目录 README 自述 Apache-2.0，卡片未说明 MIT 是否覆盖该部分。1.6 的参数量、激活参数、上下文和 API 价格官方未披露；OpenRouter 与 Artificial Analysis LLM 榜暂未收录本模型。更完整的训练与评测细节指向 GitHub 上的技术报告，已另建文件夹。
 
 ## 原文
 
@@ -24,7 +24,7 @@ Hugging Face 模型卡宣布开源音频驱动数字人框架 LongCat-Video-Avat
 
 ## 核验
 
-待核
+[✅ 能核实](核验.md)（2026-11-15 T2 标准版）。仓公开无门禁，权重文件可 HEAD 到真实字节数。HF 仓无独立 LICENSE 文件，以 GitHub MIT 原文与 cardData 为准。
 
 ## 深度解析
 
